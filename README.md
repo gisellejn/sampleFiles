@@ -1,4 +1,3 @@
-# Web Development Basics
 # Java Platform Basics
 
 - [ Introduction](#introduction)
@@ -20,5 +19,13 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 ## Difference between SDK and JRE
 
-| Java SDK | Java JRE |
----
+| Java SDK | Java JRE | Version |
+|:---------|:--------:|--------:|
+| lorem    | sit amet|  dolor   |   
+| lorem    | sit amet|  dolor   |
+| lorem    | sit amet|  dolor   |
+| lorem    | sit amet|  dolor   |
+
+
+[Sample Image](https://bit.ly/3xscrZU)
+
