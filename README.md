@@ -43,7 +43,15 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 | lorem    | sit amet|  dolor   |
 
 
+## How to install
+
+1. Go to www.java.com and search for sdk
+2. Download either 64-bit or the 32-bit sdk
+3. Once downloaded, double click on the application and follow inline instructions.
+
 [Sample Image](https://bit.ly/3xscrZU)
 
 ![sample](https://bit.ly/3xscrZU)
+
+
 
